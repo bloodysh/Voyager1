@@ -16,7 +16,7 @@ public class Voyage {
 
 		//FIN TEST 1 */
 	
-		/*		// TEST 2
+			// TEST 2
 		System.out.println("Test partie 2 : ");
 		System.out.println("----------------");
 

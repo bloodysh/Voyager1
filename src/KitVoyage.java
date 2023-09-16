@@ -59,9 +59,4 @@ public class KitVoyage {
         {
             return lesOptions.size();
         }
-
-
-    
-
-
 }

@@ -14,7 +14,7 @@ public class Transport extends OptionVoyage
     public Transport (String unNom, double prixForfaitaire, boolean estLong)
 
     {
-        super (unNom, prixForfaitaire)
+        super (unNom, prixForfaitaire);
         this.estLong = estLong;
     }
 

@@ -33,7 +33,7 @@ public class Voyage {
 		//FIN TEST 2 */
 
 		
-		/*		 //TEST 3
+				 //TEST 3
 		System.out.println("Test partie 3 : ");
 		System.out.println("----------------");
 
